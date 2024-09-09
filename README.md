@@ -4,6 +4,7 @@
 - 💬 Ask me about **Python, R, Power BI, Tableau, SQL & Excel**
 
 - 📫 How to reach me **zianaodero@gmail.com**
+- Checkout  some of my trainings at [NexTech Academy](https://www.youtube.com/@NexTechAcademy)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
