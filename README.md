@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zianaotoyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zianaotoyi" height="30" width="40" /></a>
+<a href="https://X.com/ZianaOtoyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zianaotoyi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marice ziana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marice ziana" height="30" width="40" /></a>
 <a href="https://kaggle.com/otoiodero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="otoiodero" height="30" width="40" /></a>
 <a href="https://medium.com/@zianaodero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zianaodero" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nextechacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nextechacademy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NexTechAcademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nextechacademy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
